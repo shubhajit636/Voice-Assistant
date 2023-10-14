@@ -28,7 +28,7 @@ def wishme():
     else:
         speak("good night")
 
-    speak("hello rishi i am networm, how may i help youu")
+    speak("hello Shubhajit i am networm, how may i help youu")
 
 def takeCommand():
     #take command from the user 
